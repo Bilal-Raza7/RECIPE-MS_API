@@ -1,4 +1,4 @@
-<h1 align = "center"> ExpenseTracker API </h1>
+<h1 align = "center"> Recipe-MS-API </h1>
 
 <p align="center">
 <a href="Java url">
@@ -144,5 +144,3 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 Give a ⭐️ if this project helped you!
     
 ---
-
-
